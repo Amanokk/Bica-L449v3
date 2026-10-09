@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bica L449",
+      "hasCanvas": false,
+      "bodyTextLen": 1417,
+      "bodyTextHash": "2944ea80f531d3e3b0131f1bfc947bf127be407ca862ba7d10a5608ea8954a5d",
+      "bodyTextPrefix": "OBRA L449 Bica Escolha os lançamentos ou insira um novo. O texto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bica L449",
+      "hasCanvas": false,
+      "bodyTextLen": 1434,
+      "bodyTextHash": "0434140be4e4fda612fc7581ecf6cc6e7a9ccce9a7bf5abd38b8c326f68c0143",
+      "bodyTextPrefix": "OBRA L449 Bica Escolha os lançamentos ou insira um novo. O texto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
